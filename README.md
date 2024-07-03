@@ -1,12 +1,6 @@
 # Spotify-Music-Recommendation-System-Using-Apache-Spark
 
-## Group members:
-
-Moiz Tanvir (i221932@nu.edu.pk)
-
 Saim Nadeem (i221884@nu.edu.pk)
-
-Abdullah (i221871@nu.edu.pk)
 
 ## Introduction
 
