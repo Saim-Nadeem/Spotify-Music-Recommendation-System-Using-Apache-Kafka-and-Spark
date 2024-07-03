@@ -87,9 +87,8 @@ The completion of this project will result in a robust music recommendation syst
 - Alternating Least Squares (ALS): https://github.com/recommenders-team/recommenders/blob/main/examples/02_model_collaborative_filtering/als_deep_dive.ipynb
 - Database (MongoDB): https://en.wikipedia.org/wiki/MongoDB
 - Flask: https://en.wikipedia.org/wiki/Flask_(web_framework)
-- The assignment was assisted by ChatGPT to certain extent
 
-![s1](https://github.com/moiztanvir/Spotify-Music-Recommendation-System-Using-Apache-Spark/assets/151388609/a729e939-e545-460e-8b44-fd09512e9584)
-![s2](https://github.com/moiztanvir/Spotify-Music-Recommendation-System-Using-Apache-Spark/assets/151388609/1a127c80-3778-428b-81b0-b0124ac5cdc4)
+![Screenshot 2024-06-30 014740](https://github.com/Saim-Nadeem/Spotify-Music-Recommendation-System-Using-Apache-Kafka-and-Spark/assets/137045037/d49f72b8-9e92-4744-98cc-a2c1f4f3744c)
+![Screenshot 2024-06-30 014813](https://github.com/Saim-Nadeem/Spotify-Music-Recommendation-System-Using-Apache-Kafka-and-Spark/assets/137045037/197e9909-2b40-4360-a598-6814a751b4a6)
 ![s3](https://github.com/moiztanvir/Spotify-Music-Recommendation-System-Using-Apache-Spark/assets/151388609/15f9e477-5592-4059-b170-149f0156eb0b)
 
