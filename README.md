@@ -52,6 +52,16 @@ We use the **Free Music Archive (FMA)** dataset with 100k+ tracks and 161 genres
 - Flask for web UI
 
 ---
+### 1️⃣ Data Acquisition
+
+- Download `fma_large.zip` and `fma_metadata.zip` datasets from the official FMA repository:
+
+  - 🎵 Audio files: [fma_large.zip](https://os.unil.cloud.switch.ch/fma/fma_large.zip)
+  - 📝 Metadata: [fma_metadata.zip](https://os.unil.cloud.switch.ch/fma/fma_metadata.zip)
+
+- Unzip both files and place them in your working directory.
+
+---
 
 ## 🔄 ETL Pipeline
 
