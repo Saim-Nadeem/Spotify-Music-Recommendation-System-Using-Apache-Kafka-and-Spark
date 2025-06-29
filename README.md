@@ -157,6 +157,5 @@ python web_app.py
 ## 👤 Author
 
 **Saim Nadeem**  
-📧 Email: i221884@nu.edu.pk  
 🔗 GitHub: [Saim-Nadeem](https://github.com/Saim-Nadeem)
 
